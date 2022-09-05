@@ -1,1 +1,1 @@
- all the lines in the file
+lines of the file
