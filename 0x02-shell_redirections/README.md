@@ -1,1 +1,1 @@
-lines containing the pattern “root” from the file /etc/passwd
+number of lines that contain the pattern
